@@ -39,8 +39,8 @@ namespace IOC.Web.Controllers
         ////Sayfayý yenilediðimiz zaman yeni bir request isteði atacaðýmýz için yeni bir nesne oluþur Singleton da sayfa yenilendiðinde yeni nesne oluþmaz.
         //public IActionResult Index([FromServices] IScopedDateService scopedDateService)
         //{
-        //    ViewBag.time1 = _scopedDateService.GetDateTime.TimeOfDay.ToString();
-        //    ViewBag.time2 = scopedDateService.GetDateTime.TimeOfDay.ToString();
+        //    ViewBag.scoped_Time1 = _scopedDateService.GetDateTime.TimeOfDay.ToString();
+        //    ViewBag.scoped_Time2 = scopedDateService.GetDateTime.TimeOfDay.ToString();
 
         //    return View();
         //}
@@ -48,17 +48,29 @@ namespace IOC.Web.Controllers
 
         #region Transient
         private readonly ITransientDateService _transientDateService;
-
-        public HomeController(ITransientDateService transientDateService)
+        private readonly ISingletonDateService _singletonDateService;
+        private readonly IScopedDateService _scopedDateService;
+        public HomeController(ITransientDateService transientDateService, ISingletonDateService singletonDateService, IScopedDateService scopedDateService)
         {
             _transientDateService = transientDateService;
+            _singletonDateService = singletonDateService;
+            _scopedDateService = scopedDateService;
         }
 
         //Her bir enjekte de yeni bir tane nesne örneði oluþturdu.
-        public IActionResult Index([FromServices] ITransientDateService transientDateService)
+        public IActionResult Index([FromServices] ITransientDateService transientDateService, [FromServices] IScopedDateService scopedDateService, [FromServices] ISingletonDateService singletonDateService2)
         {
-            ViewBag.time1 = _transientDateService.GetDateTime.TimeOfDay.ToString();
-            ViewBag.time2 = transientDateService.GetDateTime.TimeOfDay.ToString();
+            //Transient
+            ViewBag.transient_Time1 = _transientDateService.GetDateTime.TimeOfDay.ToString();
+            ViewBag.transient_Time2 = transientDateService.GetDateTime.TimeOfDay.ToString();
+
+            //Scoped
+            ViewBag.scoped_Time1 = _scopedDateService.GetDateTime.TimeOfDay.ToString();
+            ViewBag.scoped_Time2 = scopedDateService.GetDateTime.TimeOfDay.ToString();
+
+            //Singleton
+            ViewBag.singleton_Time1 = _singletonDateService.GetDateTime.TimeOfDay.ToString();
+            ViewBag.singleton_Time2 = singletonDateService2.GetDateTime.TimeOfDay.ToString();
 
             return View();
         }

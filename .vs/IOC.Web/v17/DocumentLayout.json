@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\",
+  "WorkspaceRootPath": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\desktop\\c#\\ioc.web\\ioc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\documents\\github\\ioc.web\\ioc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|solutionrelative:ioc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\desktop\\c#\\ioc.web\\ioc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\documents\\github\\ioc.web\\ioc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|solutionrelative:ioc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\desktop\\c#\\ioc.web\\ioc.web\\models\\idateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\documents\\github\\ioc.web\\ioc.web\\models\\idateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|solutionrelative:ioc.web\\models\\idateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\desktop\\c#\\ioc.web\\ioc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\documents\\github\\ioc.web\\ioc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|solutionrelative:ioc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\desktop\\c#\\ioc.web\\ioc.web\\models\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|c:\\users\\efeka\\documents\\github\\ioc.web\\ioc.web\\models\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CEDBB39-5D31-4FC1-8DE3-915BC8D8A9AC}|IOC.Web\\IOC.Web.csproj|solutionrelative:ioc.web\\models\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,23 +40,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IOC.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IOC.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T18:56:47.075Z"
+              "WhenOpened": "2024-06-20T18:56:47.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IOC.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IOC.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAwDAAAAAOAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwD8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:48:01.506Z",
               "EditorCaption": ""
@@ -65,9 +66,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Program.cs",
               "RelativeDocumentMoniker": "IOC.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Program.cs",
               "RelativeToolTip": "IOC.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IDateService.cs",
-              "DocumentMoniker": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Models\\IDateService.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Models\\IDateService.cs",
               "RelativeDocumentMoniker": "IOC.Web\\Models\\IDateService.cs",
-              "ToolTip": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Models\\IDateService.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Models\\IDateService.cs",
               "RelativeToolTip": "IOC.Web\\Models\\IDateService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DateService.cs",
-              "DocumentMoniker": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Models\\DateService.cs",
+              "DocumentMoniker": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Models\\DateService.cs",
               "RelativeDocumentMoniker": "IOC.Web\\Models\\DateService.cs",
-              "ToolTip": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\Models\\DateService.cs",
+              "ToolTip": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\Models\\DateService.cs",
               "RelativeToolTip": "IOC.Web\\Models\\DateService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\IOC.Web.csproj": {}
+    "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\IOC.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\IOC.Web.csproj": {
+    "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\IOC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\IOC.Web.csproj",
+        "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\IOC.Web.csproj",
         "projectName": "IOC.Web",
-        "projectPath": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\IOC.Web.csproj",
+        "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\IOC.Web.csproj",
         "packagesPath": "C:\\Users\\efeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efeka\\Desktop\\C#\\IOC.Web\\IOC.Web\\obj\\",
+        "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\IOC.Web\\IOC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
